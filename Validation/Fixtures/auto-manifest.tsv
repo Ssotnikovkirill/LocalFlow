@@ -1,0 +1,3 @@
+id	language	pcm_f32_path	reference
+auto-ru04	auto	pcm/ru04-ru-16k-mono-f32le.raw	Архитектура приложения включает захват звука, потоковую обработку и безопасную вставку текста.
+auto-en04	auto	pcm/en04-en-16k-mono-f32le.raw	The application architecture includes audio capture, streaming processing, and safe text insertion.

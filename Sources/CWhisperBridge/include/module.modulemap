@@ -1,0 +1,4 @@
+module CWhisperBridge {
+    header "LocalFlowWhisperBridge.h"
+    export *
+}

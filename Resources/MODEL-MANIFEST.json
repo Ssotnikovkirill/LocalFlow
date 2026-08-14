@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "whisper_cpp": {
+    "version": "1.9.1",
+    "commit": "f049fff95a089aa9969deb009cdd4892b3e74916"
+  },
+  "models": [
+    {
+      "file": "ggml-small-q5_1.bin",
+      "bytes": 190085487,
+      "sha256": "52914f6730a59593fd6108d21dcac060a35ce569d9d70eec431e5623f387c82f",
+      "role": "default multilingual speech model",
+      "provenance": "locally quantized q5_1 from verified ggml-small.bin with whisper.cpp v1.9.1"
+    },
+    {
+      "file": "ggml-base.bin",
+      "bytes": 147951465,
+      "sha256": "60ed5bc3dd14eea856493d334349b405782ddcaf0028d4b5df4088345fba2efe",
+      "role": "lower-memory multilingual fallback",
+      "source": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.bin"
+    },
+    {
+      "file": "ggml-silero-v6.2.0.bin",
+      "bytes": 885098,
+      "sha256": "2aa269b785eeb53a82983a20501ddf7c1d9c48e33ab63a41391ac6c9f7fb6987",
+      "role": "mandatory non-speech gate",
+      "source": "https://huggingface.co/ggml-org/whisper-vad/resolve/main/ggml-silero-v6.2.0.bin"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Resources/Models/ggml-small-q5_1.bin filter=lfs diff=lfs merge=lfs -text
+Resources/Models/ggml-base.bin filter=lfs diff=lfs merge=lfs -text
+Releases/*.zip filter=lfs diff=lfs merge=lfs -text
+Resources/Models/*.bin -text
+Validation/Fixtures/**/*.raw -text
+Vendor/**/*.a -text
+*.png -text
+

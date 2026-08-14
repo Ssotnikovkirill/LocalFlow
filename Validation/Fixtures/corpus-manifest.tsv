@@ -1,0 +1,17 @@
+id	language	pcm_f32_path	reference
+ru01	ru	pcm/ru01-ru-16k-mono-f32le.raw	Сегодня мы проверяем локальное распознавание речи на компьютере без подключения к интернету.
+ru02	ru	pcm/ru02-ru-16k-mono-f32le.raw	Пожалуйста, откройте настройки, выберите русский язык и нажмите кнопку сохранить.
+ru03	ru	pcm/ru03-ru-16k-mono-f32le.raw	Быстрая коричневая лиса перепрыгнула через ленивую собаку, а затем исчезла за деревьями.
+ru04	ru	pcm/ru04-ru-16k-mono-f32le.raw	Архитектура приложения включает захват звука, потоковую обработку и безопасную вставку текста.
+ru05	ru	pcm/ru05-ru-16k-mono-f32le.raw	В четверг двадцать девятого июля температура поднялась до двадцати трёх градусов.
+ru06	ru	pcm/ru06-ru-16k-mono-f32le.raw	Модель должна правильно распознавать короткие фразы, длинные предложения и технические термины.
+ru07	ru	pcm/ru07-ru-16k-mono-f32le.raw	Если микрофон недоступен, программа покажет понятное сообщение об ошибке и сохранит данные.
+ru08	ru	pcm/ru08-ru-16k-mono-f32le.raw	Правая клавиша Option запускает диктовку, а после отпускания результат появляется в активном поле.
+en01	en	pcm/en01-en-16k-mono-f32le.raw	Today we are testing local speech recognition on a computer without an internet connection.
+en02	en	pcm/en02-en-16k-mono-f32le.raw	Please open settings, choose the English language, and press the save button.
+en03	en	pcm/en03-en-16k-mono-f32le.raw	The quick brown fox jumps over the lazy dog and then disappears behind the trees.
+en04	en	pcm/en04-en-16k-mono-f32le.raw	The application architecture includes audio capture, streaming processing, and safe text insertion.
+en05	en	pcm/en05-en-16k-mono-f32le.raw	On Thursday, July twenty ninth, the temperature rose to twenty three degrees.
+en06	en	pcm/en06-en-16k-mono-f32le.raw	The model should correctly recognize short phrases, long sentences, and technical terms.
+en07	en	pcm/en07-en-16k-mono-f32le.raw	If the microphone is unavailable, the program will show a clear error message and preserve the data.
+en08	en	pcm/en08-en-16k-mono-f32le.raw	Hold the right Option key to start dictation, then release it to insert text into the active field.
