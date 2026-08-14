@@ -8,7 +8,7 @@ LocalFlow —это приложение диктовки для Apple Silicon M
 
 Интернет для распознавания не нужен.
 
-![Main Screenshot](.image.png)
+![Main Screenshot](image.png)
 
 ## Что находится в репозитории
 
